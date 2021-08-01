@@ -1,0 +1,73 @@
+{
+    "basics": {
+        "name": "Raghhav D Turki",
+        "label": "Student",
+	"picture": "https://drive.google.com/file/d/1nCUW24Z2P3ITY5k2TFg194F28eB8oLWf/view?usp=sharing",
+        "email": "2020kucp1065@iiitkota.ac.in",
+        "phone": "+919315424447",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Highway Apartments, Gazipur",
+            "postalCode": "110096",
+            "city": "Delhi",
+            "countryCode": " India",
+            "region": "Delhi"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "RaghhavDTurki",
+                "url": "https://github.com/RaghhavDTurki"
+            },
+            {
+                "network": "linkedin",
+                "username": "Raghhav D Turki",
+                "url": "https://www.linkedin.com/in/raghhav-d-turki-1563aa20b/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Master",
+            "keywords": [
+                "C/C++",
+                "Python",
+                "Tensorflow",
+                "Node.js",
+                "Express"
+            ]
+        },
+        {
+            "level": "Beginner",
+            "keywords": [
+                "Typescript",
+                "PyTorch",
+                "Docker",
+                "Django"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Book Reading",
+		"keywords": ["Economics", "Programming", "Science", "Artificial Intelligence"]
+        }
+    ],
+    "references": []
+}
